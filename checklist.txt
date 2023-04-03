@@ -1,0 +1,4 @@
+- Producir foto para el Hero.
+- Hacer página 100% responsive. Especialmente en el rango w:1100px-1300px.
+- Arreglar logo Header.
+- Agregar todo el JavaScript.
