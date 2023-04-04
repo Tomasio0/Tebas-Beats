@@ -37,7 +37,7 @@ align-items: center;
     background-size: cover;
     height: 100px;
     margin: 10px 0 0 0;
-    background-image: url(/Edipo-b&w.PNG);
+    background-image: url(Edipo-b&w.PNG);
     transition: 0.3s;
 }
 
@@ -46,7 +46,7 @@ align-items: center;
     background-size: cover;
     height: 100px;
     margin: 10px 0 0 0;
-    background-image: url(/Edipo\ beige\ png.PNG);
+    background-image: url(Edipo\ beige\ png.PNG);
     cursor: pointer;
     transition: 0.3s;
 }
@@ -95,7 +95,7 @@ align-items: center;
 
 #hero-section{
 
-    background-image: url(/Media/pexels-photo-3355358.jpeg);
+    background-image: url(Media/pexels-photo-3355358.jpeg);
     background-color: rgb(71, 71, 71);
     background-blend-mode: multiply;
     width: 100%;
@@ -107,7 +107,7 @@ align-items: center;
 
 .hero-text-container{
     position: absolute;
-    top:50%;
+    top:45%;
     left:50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -116,7 +116,7 @@ align-items: center;
 
 .hero-text{
     font-family: 'Cinzel', serif;
-    font-size: 5rem;
+    font-size: 4rem;
     font-weight: 500;
     color:white;
 }
@@ -151,7 +151,7 @@ align-items: center;
 @media(max-width: 700px){
 
 #hero-section{
-    background-image: url(/Media/pexels-photo-3355358.jpeg);
+    background-image: url(Media/pexels-photo-3355358.jpeg);
     background-color: rgb(66, 66, 66);
     background-blend-mode: multiply;
     height: 100%;
@@ -222,7 +222,7 @@ align-items: center;
     width:100%;
     padding-top: 4rem;
     padding-bottom: 4rem;
-    background-image: url(/Media/fDuJnA.jpg);
+    background-image: url(Media/fDuJnA.jpg);
     background-color: rgb(77, 77, 77);
     background-blend-mode: multiply;
     object-fit: cover;
@@ -522,7 +522,7 @@ align-items: center;
     text-align: center;
     padding-top: 4rem;
     color: white;
-    background-image: url(/Media/fDuJnA.jpg);
+    background-image: url(Media/fDuJnA.jpg);
     background-color: rgb(77, 77, 77);
     background-blend-mode: multiply;
     object-fit: cover;
