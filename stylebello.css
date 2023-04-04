@@ -37,7 +37,7 @@ align-items: center;
     background-size: cover;
     height: 100px;
     margin: 10px 0 0 0;
-    background-image: url(/Edipo-b&w.PNG);
+    background-image: url(Edipo-b&w.PNG);
     transition: 0.3s;
 }
 
@@ -46,7 +46,7 @@ align-items: center;
     background-size: cover;
     height: 100px;
     margin: 10px 0 0 0;
-    background-image: url(/Edipo\ beige\ png.PNG);
+    background-image: url(Edipo\ beige\ png.PNG);
     cursor: pointer;
     transition: 0.3s;
 }
